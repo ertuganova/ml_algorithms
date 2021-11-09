@@ -1,0 +1,2 @@
+# Motivation
+I decided to make this repo for myself after one interview, where I totally failed to give ML algorithms explanations. I think that implementing some basics myself will help me to understand better how algorithms work. 
